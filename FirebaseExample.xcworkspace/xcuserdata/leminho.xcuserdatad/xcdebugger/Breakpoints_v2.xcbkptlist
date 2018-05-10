@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.270609"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.2707421"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.27086"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.2709709"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.2710789"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547636587.117438"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "351">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Error) -&gt; () in FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547636587.120454"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "15">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.271183"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 (Swift.Error) -&gt; () in FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547636587.127036"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "427">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #5 () -&gt; () in FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547636587.129867"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "37"
+                  endingLineNumber = "37"
+                  offsetFromSymbolStart = "18">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.271287"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "38"
+            endingLineNumber = "38"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547635399.928866"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "821">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #4 () -&gt; () in FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547635399.931429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "34"
+                  endingLineNumber = "34"
+                  offsetFromSymbolStart = "208">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/extension/Firebase+Extension/Auth+RxSwift.swift"
+            timestampString = "547638154.271399"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "20"
+            endingLineNumber = "20"
+            landmarkName = "signIn(withEmail:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/extension/Firebase+Extension/Auth+RxSwift.swift"
+            timestampString = "547638154.271493"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "signIn(withEmail:password:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.271583"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/extension/Firebase+Extension/Auth+RxSwift.swift"
+            timestampString = "547638154.271686"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "signIn(withEmail:password:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (RxSwift.AnyObserver&lt;()&gt;) -&gt; RxSwift.Disposable in (extension in FirebaseExample):RxSwift.Reactive&lt;A where A: __ObjC.Auth&gt;.signIn(withEmail: Swift.String, password: Swift.String) -&gt; RxSwift.Observable&lt;()&gt;"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/extension/Firebase+Extension/Auth+RxSwift.swift"
+                  timestampString = "547635488.426285"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "464">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Optional&lt;__ObjC.User&gt;, Swift.Optional&lt;Swift.Error&gt;) -&gt; () in closure #1 (RxSwift.AnyObserver&lt;()&gt;) -&gt; RxSwift.Disposable in (extension in FirebaseExample):RxSwift.Reactive&lt;A where A: __ObjC.Auth&gt;.signIn(withEmail: Swift.String, password: Swift.String) -&gt; RxSwift.Observable&lt;()&gt;"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/extension/Firebase+Extension/Auth+RxSwift.swift"
+                  timestampString = "547635488.431029"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "389">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.2717741"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FirebaseExample/Common/AppInitializeManager.swift"
+            timestampString = "547638154.271871"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "30"
+            endingLineNumber = "30"
+            landmarkName = "prepare(_:callback:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547636587.1460429"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "317">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #3 () -&gt; () in FirebaseExample.AppInitializeManager.prepare(__ObjC.UIApplication, callback: () -&gt; ()) -&gt; ()"
+                  moduleName = "FirebaseExample"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/leminho/Desktop/cty/FirebaseExample/FirebaseExample/Common/AppInitializeManager.swift"
+                  timestampString = "547636587.148658"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "4">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
